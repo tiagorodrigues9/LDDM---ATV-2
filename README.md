@@ -1,3 +1,4 @@
-# at2_base
+# ATV 2
 
-Repositório inicial para at2
+Repositório para a atividade 2 de LDDM. Tema: cadastro de jogos
+
